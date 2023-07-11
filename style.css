@@ -1,0 +1,17 @@
+img{
+    margin:22px 10px 10px 0px;
+    float: center;
+}
+body{
+background-color: lightblue; /*EDIT ME: page backround color */
+font-family: "Open Sans", sans-serif;
+padding: 5px 25px;
+font-size: 18px;
+width: 700px;
+margin: auto;
+color: #444;
+}
+h1,h2,h3,h4{
+    font-family: "Merriweather", serif;
+    clear: both; /*puts lists on new line */
+}
